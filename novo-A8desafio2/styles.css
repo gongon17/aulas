@@ -1,0 +1,112 @@
+
+
+
+.div0{
+	width: 30%;
+    margin:auto;
+    margin-top:20%;
+    border: solid black;
+    border-width: 1px;
+    padding: 2%;
+}
+
+
+.lol{
+    display: none;
+
+}
+
+
+
+.perfil_user{
+	width: 90%;
+    margin:auto;
+    margin-top:10%;
+    border: solid black;
+    border-width: 1px;
+    padding: 2%;
+    display: none;
+
+}
+
+
+
+.novo_user{
+    width: 90%;
+    margin:auto;
+    margin-top:10%;
+    border: solid black;
+    border-width: 1px;
+    padding: 2%;
+    display: none;
+
+
+}
+
+
+.container{
+	width: 80%;
+
+
+}
+
+
+.imag1{
+
+    background: url(https://upload.wikimedia.org/wikipedia/commons/4/49/Elon_Musk_2015.jpg);
+	background-position: center;
+	background-size: cover;
+	
+	height: 500px;
+	max-width: 100%;
+
+}
+
+
+.imag2{
+    background: url(https://vignette.wikia.nocookie.net/youtubepoop/images/f/f7/5Pikachu.png/revision/latest?cb=20141108062013);
+    background-position: center;
+	background-size: cover;
+	
+	height: 500px;
+	max-width: 100%;
+}
+
+.imag3{
+    background: url(https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg);
+	background-position: center;
+	background-size: cover;
+	
+	height: 500px;
+	max-width: 100%;
+}
+
+
+
+.imag4{
+    background: url(http://vignette1.wikia.nocookie.net/doraemon/images/b/b8/Doraemon_2005.PNG/revision/latest?cb=20151207094313&path-prefix=en);
+	background-position: center;
+	background-size: cover;
+	
+	height: 500px;
+	max-width: 100%;
+}
+
+
+.imag5{
+    background: url(https://vignette.wikia.nocookie.net/vsbattles/images/1/12/Son_Goku_Character_Art.png/revision/latest?cb=20171109214423);
+	background-position: center;
+	background-size: cover;
+	
+	height: 500px;
+	max-width: 100%;
+}
+
+.imag6{
+    background: url(http://sitedosgeeks.com/wp-content/uploads/2017/11/star-wars.jpg);
+	background-position: center;
+	background-size: cover;
+	
+	height: 500px;
+	max-width: 100%;
+}
